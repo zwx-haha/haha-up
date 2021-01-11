@@ -1,13 +1,11 @@
-#haha-up
+# haha-up
 >个人技术梳理合集
-## haha-design-pattern
----
 
-###1. Java设计模式总结
+### 1. Java设计模式总结
 - [设计模式前言](./haha-design-pattern/设计模式前言.md)
 - [23 种设计模式的分类和功能](./haha-design-pattern/23种设计模式的分类和功能.md)
 
-###2. 面向对象设计原则
+### 2. 面向对象设计原则
 - [开闭原则](./haha-design-pattern/面向对象设计原则/开闭原则——面向对象设计原则.md)
 - [里氏替换原则](./haha-design-pattern/面向对象设计原则/里氏替换原则——面向对象设计原则.md)
 - [迪米特法则](./haha-design-pattern/面向对象设计原则/迪米特法则——面向对象设计原则.md)
@@ -16,7 +14,7 @@
 - [接口隔离原则](./haha-design-pattern/面向对象设计原则/接口隔离原则——面向对象设计原则.md)
 - [合成复用原则](./haha-design-pattern/面向对象设计原则/合成复用原则——面向对象设计原则.md)
 
-###3. 创建型设计模式
+### 3. 创建型设计模式
 - [单例模式](./haha-design-pattern/创建型设计模式/单例模式（单例设计模式）详解.md)
 - [原型模式](./haha-design-pattern/创建型设计模式/原型模式（原型设计模式）详解.md)
 - [工厂方法模式](./haha-design-pattern/创建型设计模式/工厂方法模式（详解版）.md)
@@ -24,6 +22,6 @@
 - [简单工厂模式](./haha-design-pattern/创建型设计模式/简单工厂模式.md)
 - [建造者模式（Bulider模式）](./haha-design-pattern/创建型设计模式/建造者模式（Bulider模式）详解.md)
 
-###3. 结构型设计模式
+### 4. 结构型设计模式
 - [代理模式](./haha-design-pattern/结构型设计模式/代理模式（代理设计模式）详解.md)
 - [单例模式](./haha-design-pattern/结构型设计模式/单例模式（单例设计模式）详解.md)
