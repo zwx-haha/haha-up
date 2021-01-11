@@ -24,6 +24,7 @@
         <module>haha-dubbo</module>
         <module>haha-zookeeper</module>
         <module>haha-jms</module>
+        <module>haha-design-pattern</module>
     </modules>
 
     <properties>
