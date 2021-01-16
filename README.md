@@ -24,4 +24,6 @@
 
 ### 4. 结构型设计模式
 - [代理模式](./haha-design-pattern/结构型设计模式/代理模式（代理设计模式）详解.md)
-- [单例模式](./haha-design-pattern/结构型设计模式/单例模式（单例设计模式）详解.md)
+- [适配器模式](./haha-design-pattern/结构型设计模式/适配器模式（Adapter模式）详解.md)
+- [桥接模式](./haha-design-pattern/结构型设计模式/桥接模式（Bridge模式）详解.md)
+- [装饰模式](./haha-design-pattern/结构型设计模式/装饰模式（装饰设计模式）详解.md)
