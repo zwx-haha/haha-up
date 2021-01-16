@@ -27,3 +27,15 @@
 - [适配器模式](./haha-design-pattern/结构型设计模式/适配器模式（Adapter模式）详解.md)
 - [桥接模式](./haha-design-pattern/结构型设计模式/桥接模式（Bridge模式）详解.md)
 - [装饰模式](./haha-design-pattern/结构型设计模式/装饰模式（装饰设计模式）详解.md)
+- [外观模式](./haha-design-pattern/结构型设计模式/外观模式（Facade模式）详解.md)
+- [享元模式](./haha-design-pattern/结构型设计模式/享元模式（详解版）.md)
+- [组合模式](./haha-design-pattern/结构型设计模式/组合模式（详解版）.md)
+
+### 5. 行为型模式
+- [模板方法模式](./haha-design-pattern/行为型模式/模板方法模式（模板方法设计模式）详解.md)
+- [策略模式](./haha-design-pattern/行为型模式/策略模式（策略设计模式）详解.md)
+- [桥接模式](./haha-design-pattern/行为型模式/桥接模式（Bridge模式）详解.md)
+- [装饰模式](./haha-design-pattern/行为型模式/装饰模式（装饰设计模式）详解.md)
+- [外观模式](./haha-design-pattern/行为型模式/外观模式（Facade模式）详解.md)
+- [享元模式](./haha-design-pattern/行为型模式/享元模式（详解版）.md)
+- [组合模式](./haha-design-pattern/行为型模式/组合模式（详解版）.md)
